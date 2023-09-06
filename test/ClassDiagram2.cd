@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="obstacle">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAACAAAAAAAAQAAAAAAAAIQAAA=</HashCode>
+      <FileName>obstacle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAAAgAAAEBAABBEAgAAAAAAAAgARAIMAABgQAAUgAA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dinogame">
+    <Position X="3.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAggAAAAACABAgACAIAAAAAAAAAAAAEArAIAIWAAA=</HashCode>
+      <FileName>Dinogame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dino">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAgCAABIAACABAAGoACAAAIgACAIQQjhAGAYwAA=</HashCode>
+      <FileName>dino.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
